@@ -1,0 +1,10 @@
+=============================================================================================
+Cellular differentiation trajectories with Ricci flow
+=============================================================================================
+
+This repository contains all the code used to produce the results obtained in the the following paper. This paper show how normalised Ricci flow 
+can capture the trajectories during cellular differentiation.
+
+If you use this scientific works, **please cite the following article**:
+
+**Baptista, A., Ginestra, B., MacArthur, B., Banerji,, C. R. S.** Charting cellular differentiation trajectories with normalised discrete Ricci flow
